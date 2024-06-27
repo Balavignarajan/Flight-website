@@ -1,0 +1,781 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+// .container{
+//     display: flex;
+// }
+
+.a1 {
+    height: 99vh;
+    width: 187vh;
+    background-position: center;
+}
+
+video{
+    height: 105vh;
+    width: 188vh;
+    border-radius: 25px;
+    margin-right: 2vh;
+}
+
+.a2 {
+    display: flex;
+    color: #F5F5F5;
+    margin-top: -98vh;
+    margin-left: 5vh;
+    font-family: "inter";
+}
+
+.a2 a {
+    padding: 10px;
+}
+
+.a3 {
+    padding-left: 105vh;
+    margin-top: -6vh;
+
+}
+
+.a3 img {
+    padding: 10px;
+    height: 4vh;
+    width: 3vh;
+
+}
+
+.a4 {
+    display: flex;
+    margin-left: 130vh;
+    margin-top: -6vh;
+
+
+
+}
+
+.a4a button {
+    background: transparent;
+    border: 1px;
+    align-items: center;
+    color: #F5F5F5;
+    font-size: 16px;
+    padding-left: 30px;
+    border-left: 2px solid;
+
+}
+
+.a4b button {
+    padding-left: 5vh;
+    background: transparent;
+    border: 2px solid darkblue;
+    color: #F5F5F5;
+    border-radius: 20px;
+    padding-left: 2vh;
+    margin-left: 2vh;
+    font-size: 16px;
+}
+
+.a4ab {
+    border-right: 2px solid;
+    padding-left: 25px;
+    color: #F5F5F5;
+}
+
+.a5 {
+    margin-top: -3.2vh;
+
+
+}
+
+.a5 select {
+    background: transparent;
+    border: none;
+    color: #F5F5F5;
+    padding-left: 162vh;
+    font-size: 16px;
+}
+
+
+.b1  b{
+    color: #F5F5F5;
+   font-size: 32px;
+    margin-left: 1vh;
+    
+}
+
+.b2 {
+    font-size: 16px;
+    margin-top: -6vh;
+    margin-left: 101vh;
+}
+
+.b2 li {
+    display: inline;
+    color: #F5F5F5;
+    padding: 2vh;
+    font-family: "inter";
+}
+
+.d66c{
+    margin-left: 5vh;
+}
+
+.overall{
+    margin-left: 80vh;
+    font-weight: bolder;
+}
+
+.overall ::placeholder{
+    color: white;
+}
+
+.c1 {
+    font-size: 60px;
+    font-weight: 600;
+    color: #F5F5F5;
+    margin-left: 5vh;
+    margin-top: 10vh;
+}
+
+.c2 {
+    font-size: 16px;
+    color: #F5F5F5;
+    margin-left: 5vh;
+    position: absolute;
+    top: 40vh;
+}
+
+.c3 {
+    color: #F5F5F5;
+    padding-top: 10vh;
+    margin-left: 5vh;
+}
+
+.c3a {
+    color: #F5F5F5;
+    margin-left: 4.5vh;
+    padding-top: -10vh;
+    font-size: 20px;
+}
+
+
+.c3b input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    width: 40vh;
+    background: transparent;
+    margin-left: 5vh;
+    position: absolute;
+    top: 65vh;
+    padding-bottom: 2vh;
+    padding-left: 5vh;
+    outline: none;
+    color: #F5F5F5;
+    
+}
+
+
+
+
+.c4 {
+    color: #F5F5F5;
+    position: absolute;
+    top: 57vh;
+    margin-left: 55vh;
+}
+
+.c4a {
+    color: #F5F5F5;
+    margin-left: 55vh;
+    position: absolute;
+    top: 65vh;
+    font-size: 20px;
+}
+
+
+.c4b input {
+    border-style: none;
+    border-bottom: 1px solid white;
+    width: 40vh;
+    background: transparent;
+    margin-left: 55vh;
+    position: absolute;
+    top: 65vh;
+    padding-bottom: 2vh;
+    padding-left: 5vh;
+    outline: none;
+    color: #F5F5F5;
+}
+
+
+
+.c5 {
+    color: #F5F5F5;
+    position: absolute;
+    top: 72vh;
+    margin-left: 5vh;
+}
+
+.c5a {
+    color: #F5F5F5;
+    margin-left: 5vh;
+    position: absolute;
+    top: 80vh;
+    font-size: 16px;
+}
+
+
+
+.c5b input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    width: 40vh;
+    background: transparent;
+    margin-left: 5vh;
+    position: absolute;
+    top: 80vh;
+    padding-bottom: 2vh;
+    padding-left: 5vh;
+    outline: none;
+    color: #F5F5F5;
+}
+
+.date{
+    
+    margin-left: -44vh;
+}
+
+
+.c6 {
+    color: #F5F5F5;
+    position: absolute;
+    top: 72vh;
+    margin-left: 55vh;
+}
+
+.c6a {
+    color: #F5F5F5;
+    margin-left: 55vh;
+    position: absolute;
+    top: 79vh;
+    font-size: 25px;
+}
+
+
+.c6b input {
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    width: 40vh;
+    background: transparent;
+    margin-left: 55vh;
+    position: absolute;
+    top: 80vh;
+    padding-bottom: 2vh;
+    padding-left: 5vh;
+    outline: none;
+    color: #F5F5F5;
+}
+
+// c7
+.c7 button {
+
+    background: transparent;
+    border: 2px solid darkblue;
+    color: #F5F5F5;
+    font-weight: bold;
+    border-radius: 25px;
+    width: 222px;
+    height: 48px;
+    padding-left: 2vh;
+    margin-left: 148vh;
+    font-size: 16px;
+    margin-top: 20vh;
+}
+
+// SECOND PAGE
+
+
+.d1 {
+    padding-top: 30vh;
+    margin-left: 6vh;
+
+}
+
+.d1 {
+    color: #141E38;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: "inter";
+    width: 350px;
+}
+
+.d1a {
+    margin-left: 6vh;
+    font-size: 13px;
+    font-family: "inter";
+}
+
+.d1b button {
+    background: transparent;
+    background-color: #E0B100;
+    color: #F5F5F5;
+    border-radius: 25px;
+    border: 1px solid #E0B100;
+    margin-left: 10vh;
+    margin-top: 2vh;
+    width: 192px;
+    height: 48px;
+    font-family: "inter";
+}
+
+// second page image
+.firstrow {
+    display: flex;
+    gap: 20px;
+    margin-left: 30vh;
+}
+
+.secondrow {
+    display: flex; //orae line la varathuku
+    gap: 20px; //gap varum img naduvula
+    margin-left: 30vh;
+    margin-top: -10vh;
+}
+
+.imgarrange {
+    display: flex;
+}
+
+// .wrap {
+//     display: flex;
+//     flex-direction: column; //kizha kizha varum
+//     width: 200px;
+// }
+
+// 1st image
+
+.d2a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d2b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+
+
+}
+
+.d2c {
+    width: 30px;
+    height: 30px;
+    margin-left: 20vh;
+    margin-top: 3vh;
+
+}
+
+.d2a span {
+    margin-left: -10vh;
+    margin-top: -6vh;
+    font-size: 13px;
+}
+
+.d2a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+//2ndimg
+
+.d3a {
+    display: flex;
+    flex-direction: column; // column vacha side la pogum row nu vacha kizha pogum images
+    align-items: center;
+}
+
+.d3b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+}
+
+.d3c {
+    width: 30px;
+    height: 30px;
+    margin-left: 23vh;
+    margin-top: 3vh;
+}
+
+.d3a span {
+
+    margin-top: -6vh;
+    margin-right: 5vh;
+    font-size: 13px;
+}
+
+.d3a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+//3rd image
+
+.d34a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d34b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+}
+
+.d34c {
+    width: 30px;
+    height: 30px;
+    margin-left: 23vh;
+    margin-top: 3vh;
+}
+
+.d34a span {
+    margin-left: -6vh;
+    margin-top: -6vh;
+    font-size: 13px;
+}
+
+.d34a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+//4th imgage
+
+.d4a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d4b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+}
+
+.d4c {
+    width: 30px;
+    height: 30px;
+    margin-left: 22vh;
+    margin-top: 3vh;
+}
+
+.d4a span {
+    margin-left: -7vh;
+    margin-top: -6vh;
+    font-size: 13px;
+}
+
+.d4a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+//5th image
+
+.d5a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d5b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+}
+
+.d5c {
+    width: 30px;
+    height: 30px;
+    margin-left: 22vh;
+    margin-top: 3vh;
+
+}
+
+.d5a span {
+    margin-left: -7vh;
+    margin-top: -6vh;
+    font-size: 13px;
+}
+
+.d5a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+//6th image
+
+.d6a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.d6b {
+    margin-top: 14vh;
+    width: 186.67px;
+    height: 217px;
+}
+
+.d6c {
+    width: 30px;
+    height: 30px;
+    margin-left: 22vh;
+    margin-top: 3vh;
+}
+
+.d6a span {
+    margin-left: -10vh;
+    margin-top: -6vh;
+    font-size: 13px;
+}
+
+.d6a a {
+    color: #E0B100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+// 3rd page
+
+.thirdpage {
+    display: grid;
+    // grid-template-columns: repeat(4, 1fr);           //evolo column 4 nu podurathu 4 coulum varum
+    grid-template-columns:40% 60%;  //evolo percentage na nammalae potukulam
+    // grid-template-columns:auto auto;        //auto na athuva eduthukum 4 auto ku 25 25 25 25 ah page pirinjudum
+    color: white;
+    gap: 10px;
+}
+
+.point1 {
+  color: #141E38;
+  font-family: inherit;
+  margin-top: 12vh;
+}
+
+.point1 span{
+    margin-left: 8vh;
+    margin-right: 5vh;
+    font-size: 22px;
+}
+
+.point1a{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.point1b{
+    margin-top: -1vh;
+    margin-left: 18vh;
+    font-size: 14px;
+}
+
+//2nd point
+
+  .point2 span{
+      margin-left: 8vh;
+      margin-right: 5vh;
+      font-size: 22px;
+  }
+  
+  .point2a{
+      font-size: 22px;
+      font-weight: bold;
+  }
+  
+  .point2b{
+      margin-top: -1vh;
+      margin-left: 18vh;
+      font-size: 14px;
+  }
+
+  //3rd point
+  .point3 span{
+    margin-left: 8vh;
+    margin-right: 5vh;
+    font-size: 22px;
+}
+
+.point3a{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.point3b{
+    margin-top: -1vh;
+    margin-left: 18vh;
+    font-size: 14px;
+}
+
+
+
+
+.box2{
+    margin-top: 10vh;
+  color: #141E38;
+  font-family: inherit;
+}
+
+
+.lugage img{
+    width: 70vh;
+    height: 60vh;
+}
+
+.box2title h1{
+ margin-left: 50vh;
+ font-size: 32px;
+}
+
+.box2button button{ 
+        background: transparent;
+        background-color: #E0B100;
+        color: #F5F5F5;
+        border-radius: 25px;
+        border: 1px solid #E0B100;
+        margin-left: 80vh;
+        margin-top: 2vh;
+        width: 130px;
+        height: 32px;
+        font-family: "inter";
+    }
+
+    //fourthpage
+
+    .fourthpage{
+        
+        width: 150vh;
+        height: 55vh;
+        background-color: #E0B100;
+        border-radius: 20px;
+        margin-left: 19vh;  
+        font-family: inherit; 
+    }
+
+    .fourthall{
+      text-align: center;
+      font-family:inherit;
+    }
+
+    .fourthtitle{
+     font-weight: bold;
+     color: #141E38;
+     font-size: 22px;
+     padding-top: 3vh;
+    }
+
+    .fourthform{
+        display: flex;
+      width: 73vh;
+      height: 10vh;
+      background-color: #F5F5F5;
+      justify-content: center;
+      align-items: center;
+      margin-left: 38vh;
+      border-radius: 20px;
+    } 
+
+
+    .fourthform input{
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid #141E38;
+        width: 40vh;
+        background: transparent;
+        margin-right: -35vh;
+        margin-top: -1vh;
+        outline: none;
+        
+    }
+
+    .fourthform button{
+        background: transparent;
+        background-color: #E0B100;
+        color: #F5F5F5;
+        border-radius: 25px;
+        border: 1px solid #E0B100;
+        margin-left: 40vh;
+        margin-bottom: 0.2vh;
+        width: 130px;
+        height: 32px;
+        font-family: "inter";
+    }
+
+    .mailicon{
+        color: #141E38;
+        position: absolute;
+        left: 62vh;
+        font-size: 20px;
+    }
+
+    .mailplace ::placeholder{
+        padding-left: 5vh;
+        position: absolute;
+        top: -2px;
+    }
+
+    .fourthicon{
+        margin-top: 5vh;
+    }
+
+    .fifthpage{
+        margin-top: 25vh;
+        margin-left: 60vh;
+        font-family: inherit;
+    }
+
+    .fifthpage img{
+        margin-left: 22vh;
+    }
+
+    .hrtag1{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .footnav {
+        display: flex;
+        gap: 29vh;
+        margin-left:10vh;
+        font-weight: bold;
+        font-family: inherit;
+    }
+
+   
+    .hrtag2{
+        margin-left: 50px; //for hr tag center ah vara
+        margin-right: 50px;
+        // margin: 10px 50px 0px 50px;
+    }
